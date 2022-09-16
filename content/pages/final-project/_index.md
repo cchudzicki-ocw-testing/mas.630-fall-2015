@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the final project for the course,
+  including project proposals, presentations, written reports, examples of student
+  work, and policies for projects that involve research on human participants.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
